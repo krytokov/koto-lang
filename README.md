@@ -4,5 +4,5 @@
 
 --- 
 
-# > Proposito
+## Proposito
 Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápida, segundo uma arquitetura simples e modular.
