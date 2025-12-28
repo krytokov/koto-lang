@@ -10,8 +10,6 @@ Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápi
 <!-- Exemplo -->
 ## Exemplo simples
 
-  <br>
-
   ```koto
   mod server::init <- {
       port - "8080";
@@ -22,8 +20,6 @@ Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápi
 
 <!-- Sintaxe básica -->
 ## Sintaxe básica
-
-<br>
 
 > Declaração de módulos
 <pre>mod caminho::nome <- {...}</pre>
