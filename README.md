@@ -5,7 +5,7 @@
 --- 
 
 ## Proposito
-Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápida, segundo uma arquitetura simples e modular.
+Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápida, seguindo uma arquitetura simples e modular.
 
 <!-- Exemplo -->
 <details>
