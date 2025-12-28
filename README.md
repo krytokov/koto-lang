@@ -22,3 +22,14 @@ Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápi
   > Aqui enviamos a informação `port` para o módulo `server` e sua funcão `init`.
 
 </details>
+
+<!-- Sintaxe básica -->
+<details>
+  <summary>Sintaxe básica</summary>
+
+  <br>
+
+  ### Declaração de módulos
+  <pre>mod caminho::nome <- {...}</pre>
+
+</details>
