@@ -8,8 +8,7 @@
 Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápida, seguindo uma arquitetura simples e modular.
 
 <!-- Exemplo -->
-<details>
-  <summary>Exemplo simples</summary>
+## Exemplo simples
 
   <br>
 
@@ -18,22 +17,17 @@ Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápi
       port - "8080";
   }
   ```
-  
-  > Aqui enviamos a informação `port` para o módulo `server` e sua funcão `init`.
 
-</details>
+> Aqui enviamos a informação `port` para o módulo `server` e sua funcão `init`.
 
 <!-- Sintaxe básica -->
-<details>
-  <summary>Sintaxe básica</summary>
+## Sintaxe básica
 
-  <br>
+<br>
 
-  > Declaração de módulos
-  <pre>mod caminho::nome <- {...}</pre>
-  <br>
+> Declaração de módulos
+<pre>mod caminho::nome <- {...}</pre>
+<br>
 
-  > Atribuição de valor
-  <pre>chave - valor;</pre>
-
-</details>
+> Atribuição de valor
+<pre>chave - valor;</pre>
