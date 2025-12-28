@@ -27,7 +27,12 @@ Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápi
 <details>
   <summary>Sintaxe básica</summary>
 
+  <br>
   > Declaração de módulos
   <pre>mod caminho::nome <- {...}</pre>
+  <br>
+
+  > Atribuição de valor
+  <pre>chave - valor;</pre>
 
 </details>
