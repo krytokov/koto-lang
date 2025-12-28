@@ -10,11 +10,15 @@ Uma linguagem criada para declarar e configurar projetos **Rust** de forma rápi
 <!-- Exemplo -->
 <details>
   <summary>Exemplo simples</summary>
- 
+
+  <br>
+
   ```koto
   mod server::init <- {
       port - "8080";
   }
   ```
+  
+  > Aqui enviamos a informação `port` para o módulo `server` e sua funcão `init`.
 
 </details>
